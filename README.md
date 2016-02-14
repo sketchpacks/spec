@@ -1,0 +1,2 @@
+# spec
+sketchpack.json specification
