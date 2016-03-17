@@ -4,7 +4,11 @@
 
 <pre><code>{
   <a href="#name">"name"</a>: "greatest-plugin",
-  <a href="#owner">"owner"</a>: tenaciousd,
+  <a href="#owner">"owner"</a>: "owner": {
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "homepage": "http://johndoe.com"
+  },
   <a href="#description">"description"</a>: "This is only a tribute to the greatest plugin in the world",
   <a href="#repository">"repository"</a>: {
     "type": "git",
